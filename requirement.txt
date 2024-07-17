@@ -1,5 +1,5 @@
 streamlit
-st-audiorec
+streamlit-audiorec
 SpeechRecognition
 gTTS
-googletrans
+googletrans==1.3.0a0
